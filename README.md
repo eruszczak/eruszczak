@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**erykio/erykio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! My name is Eryk and I am a software developer.
 
-Here are some ideas to get you started:
+I am interested in the Spring Framework, microservices, Kubernetes, CI/CD. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesting projects
+
+| Project name                                                               | Year(s)   | Description                                | Main technologies used                 |
+| -------------------------------------------------------------------------- | --------- | -------------------------------------------| -------------------------------------- |
+| [Making my first game](https://game.eryk.io/)                              | 2021      | 2D browser MMORPG                   | Pixi.js, Node.js, Tiled map editor     |
+| [Linkzone](https://github.com/erykio/linkzone)                             | 2018      | Social media app                           | Spring Boot, Vue.js                    |
+| [Margonem Inventory Helper](https://github.com/erykio/moje-margo)          | 2018      | An inventory helper for Margonem MMORPG    | Vue.js, Python, Django                 |
+| [Movie Web App](https://github.com/erykio/movie-website)                   | 2016-2017 | Database for movies and TV shows game      | Python, Django                         |
