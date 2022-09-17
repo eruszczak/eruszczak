@@ -6,9 +6,41 @@ I am interested in the Spring Framework, microservices, Kubernetes, CI/CD.
 
 ## Interesting projects
 
-| Project name                                                               | Year(s)   | Description                                | Main technologies used        |
-| -------------------------------------------------------------------------- | --------- | -------------------------------------------| ------------------------------|
-| [Making my first game](https://game.eryk.io/)                              | 2021      | Proof of concept of a 2D browser game      | Pixi.js, Tiled (map editor)   |
-| [Linkzone](https://github.com/erykio/linkzone)                             | 2018      | Social media app                           | Spring Boot, Vue.js           |
-| [Margonem Inventory Helper](https://github.com/erykio/moje-margo)          | 2018      | An inventory helper for Margonem MMORPG    | Vue.js, Python, Django        |
-| [Movie Web App](https://github.com/erykio/movie-website)                   | 2016-2017 | Database for movies and TV shows           | Python, Django                |
+<table>
+    <tr>
+        <th>Project name</th>
+        <th>Year(s)</th>
+        <th>Main technologies used</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/erykio/k3s-virtualbox-cluster-bootstraper">Kubernetes cluster bootstraper</a></td>
+        <td>2022</td>
+        <td>Create multi-node k3s cluster in VirtualBox</td>
+        <td>K3s, Ansible, Vagrant, VirtualBox</td>
+    </tr>
+    <tr>
+        <td><a href="https://game.eryk.io/">Making my first game</a></td>
+        <td>2021</td>
+        <td>Proof of concept of a 2D browser game</td>
+        <td>Pixi.js, Tiled LevelEditor</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/erykio/linkzone">Linkzone</a></td>
+        <td>2018</td>
+        <td>Social media app</td>
+        <td>Spring Boot, Vue.js</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/erykio/moje-margo">Margonem Inventory Helper</a></td>
+        <td>2018</td>
+        <td>An inventory helper for Margonem MMORPG</td>
+        <td>Vue.js, Python, Django</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/erykio/movie-website">Movie Web App</a></td>
+        <td>2016-2017</td>
+        <td>Database for movies and TV shows</td>
+        <td>Python, Django</td>
+    </tr>
+</table>
