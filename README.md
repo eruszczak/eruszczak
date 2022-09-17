@@ -23,7 +23,7 @@ I am interested in the Spring Framework, microservices, Kubernetes, CI/CD.
         <td><a href="https://game.eryk.io/">Making my first game</a></td>
         <td>2021</td>
         <td>Proof of concept of a 2D browser game</td>
-        <td>Pixi.js, Tiled LevelEditor</td>
+        <td>Pixi.js, Tiled Level Editor</td>
     </tr>
     <tr>
         <td><a href="https://github.com/erykio/linkzone">Linkzone</a></td>
