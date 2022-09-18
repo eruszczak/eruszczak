@@ -14,9 +14,9 @@ I am interested in the Spring Framework, microservices, Kubernetes, CI/CD.
         <th>Main technologies used</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/erykio/k3s-virtualbox-cluster-bootstraper">Kubernetes cluster bootstraper</a></td>
+        <td><a href="https://github.com/erykio/k3s-virtualbox">Kubernetes cluster bootstraper</a></td>
         <td>2022</td>
-        <td>Create multi-node k3s cluster in VirtualBox</td>
+        <td>Create multi-node K3s cluster in VirtualBox</td>
         <td>K3s, Ansible, Vagrant, VirtualBox</td>
     </tr>
     <tr>
