@@ -2,7 +2,7 @@
 
 Welcome! My name is Eryk and I am a software developer.
 
-I am interested in the Spring Framework, microservices, Kubernetes, CI/CD. 
+My interests include Java, Spring Framework, Kubernetes, CI/CD and DevOps in general.
 
 ## Interesting projects
 
@@ -12,6 +12,12 @@ I am interested in the Spring Framework, microservices, Kubernetes, CI/CD.
         <th>Year(s)</th>
         <th>Description</th>
         <th>Main technologies used</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/erykio/authelia-starter">Authelia starter</a></td>
+        <td>2022</td>
+        <td>Set up Authelia-based single sign-on (SSO) environment</td>
+        <td>Authelia, OpenLDAP, Traefik, mkcert</td>
     </tr>
     <tr>
         <td><a href="https://github.com/erykio/k3s-virtualbox">Kubernetes cluster bootstraper</a></td>
