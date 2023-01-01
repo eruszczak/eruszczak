@@ -2,7 +2,7 @@
 
 Welcome! My name is Eryk and I am a software developer.
 
-My interests include Java, Spring Framework, Kubernetes, CI/CD and DevOps in general.
+My interests include Java, Spring Framework, Docker, Kubernetes, CI/CD and DevOps in general.
 
 ## Interesting projects
 
