@@ -17,7 +17,7 @@ My interests include Java, Spring Framework, Docker, Kubernetes, CI/CD and DevOp
         <td><a href="https://github.com/erykio/authelia-starter">Authelia starter</a></td>
         <td>2022</td>
         <td>Set up Authelia-based single sign-on (SSO) environment</td>
-        <td>Authelia, OpenLDAP, Traefik, mkcert</td>
+        <td>Authelia, OpenLDAP, Traefik</td>
     </tr>
     <tr>
         <td><a href="https://github.com/erykio/k3s-virtualbox">Kubernetes cluster bootstraper</a></td>
