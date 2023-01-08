@@ -38,7 +38,7 @@ My interests include Java, Spring Framework, Docker, Kubernetes, CI/CD and DevOp
         <td>Spring Boot, Vue.js</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/erykio/moje-margo">Margonem Inventory Helper</a></td>
+        <td><a href="https://github.com/erykio/margonem-inventory-helper">Margonem Inventory Helper</a></td>
         <td>2018</td>
         <td>An inventory helper for Margonem MMORPG</td>
         <td>Vue.js, Python, Django</td>
