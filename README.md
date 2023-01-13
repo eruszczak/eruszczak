@@ -14,6 +14,12 @@ My interests include Java, Spring Framework, Docker, Kubernetes, CI/CD and DevOp
         <th>Main technologies used</th>
     </tr>
     <tr>
+        <td><a href="https://github.com/erykio/homelab">My homelab</a></td>
+        <td>2022-now</td>
+        <td>My home server showcase</td>
+        <td>Ubuntu, Raspberry Pi, Cloudflare, open source services</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/erykio/authelia-starter">Authelia starter</a></td>
         <td>2022</td>
         <td>Set up Authelia-based single sign-on (SSO) environment</td>
